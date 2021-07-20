@@ -13,7 +13,7 @@ Hi 👋, I'm SpoopyTim
 
 - 💬 Ask me about **Python and Bash**
 
-- 📫 How to reach me **spoopytimbusiness@gmail.com**
+- 📫 Contact me about business using **spoopytimbusiness@gmail.com**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoopytim&hide_border=true&currStreakLabel=FF79C6&background=DDDDDD00&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=FF79C6&sideLabels=FF79C6&dates=6272A4)](https://git.io/streak-stats)
 
