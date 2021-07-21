@@ -28,7 +28,7 @@ Hi 👋, I'm SpoopyTim
 [<img src="https://img.shields.io/badge/nodejs-%237289DA.svg?&style=for-the-badge&logo=nodedotjs&color=313842" />](https://nodejs.org) 
 [<img src="https://img.shields.io/badge/electronjs-%237289DA.svg?&style=for-the-badge&logo=electron&color=313842" />](https://www.electronjs.org) 
 [<img src="https://img.shields.io/badge/express-%237289DA.svg?&style=for-the-badge&logo=express&color=313842" />](https://expressjs.com) 
-[<img src="https://img.shields.io/badge/css-%237289DA.svg?&style=for-the-badge&logo=dotnet&color=313842" />](https://www.w3schools.com/css) 
+[<img src="https://img.shields.io/badge/css-%237289DA.svg?&style=for-the-badge&logo=css&color=313842" />](https://www.w3schools.com/css) 
 [<img src="https://img.shields.io/badge/bootstrap-%237289DA.svg?&style=for-the-badge&logo=bootstrap&color=313842" />](https://getbootstrap.com) 
 [<img src="https://img.shields.io/badge/csharp-%237289DA.svg?&style=for-the-badge&logo=csharp&color=313842" />](https://www.w3schools.com/cs) 
 [<img src="https://img.shields.io/badge/dotnet-%237289DA.svg?&style=for-the-badge&logo=arduino&color=313842" />](https://dotnet.microsoft.com) 
