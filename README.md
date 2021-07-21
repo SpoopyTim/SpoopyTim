@@ -1,7 +1,7 @@
 Hi 👋, I'm SpoopyTim
 ====================
 
-### A passionate backend developer and system administrator of @SpoopyDev-Inc
+### A passionate backend developer and founder of @SpoopyDev-Inc
 
 <img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula" />
 
