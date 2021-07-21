@@ -3,7 +3,7 @@ Hi 👋, I'm SpoopyTim
 
 ### A passionate backend developer and founder of [@SpoopyDev-Inc](https://github.com/SpoopyDev-Inc)
 
-<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula" />
+<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula&no-frame=true" />
 
 - 🔭 I’m currently working on [python-tebexclient](https://github.com/spoopytim/python-tebexclient)
 
