@@ -26,7 +26,7 @@ Hi 👋, I'm GoodInside
 
 [<img src="https://img.shields.io/badge/html-%237289DA.svg?&style=for-the-badge&logo=html5&color=576078" />](https://www.w3.org/html)
 [<img src="https://img.shields.io/badge/java-%237289DA.svg?&style=for-the-badge&logo=java&color=576078" />](https://www.w3schools.com/java)
-[<img src="https://img.shields.io/badge/css-%237289DA.svg?&style=for-the-badge&logo=css&color=576078" />](https://www.w3schools.com/css)
+[<img src="https://img.shields.io/badge/css-%237289DA.svg?&style=for-the-badge&logo=css3&color=576078" />](https://www.w3schools.com/css)
 [<img src="https://img.shields.io/badge/csharp-%237289DA.svg?&style=for-the-badge&logo=csharp&color=576078" />](https://www.w3schools.com/cs)  
  
 ### Statistics
