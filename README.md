@@ -45,6 +45,6 @@ Hi 👋, I'm SpoopyTim
  
 ### Statistics
 
-![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=spoopytim&show_icons=true&locale=en&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&border_color=000)
+![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=fff&border_color=000)
 
-![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&show_icons=true&locale=en&count_private=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&border_color=000&icon_color=fff)
+![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=fff&border_color=000&icon_color=fff)
