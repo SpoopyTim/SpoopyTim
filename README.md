@@ -1,7 +1,7 @@
 Hi 👋, I'm SpoopyTim
 ====================
 
-### A passionate backend developer and founder of [@SpoopyDev-Inc](https://github.com/SpoopyDev-Inc)
+### A passionate backend developer and founder of [@HorizonApp](https://github.com/HorizonApp-Development)
 
 <img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula&no-frame=true" />
 
