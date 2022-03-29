@@ -3,23 +3,23 @@ Hi 👋, I'm SpoopyTim
 
 ### A passionate backend developer and founder of [@HorizonApp](https://github.com/HorizonApp-Development)
 
-<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=dracula&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=nord&no-frame=true" />
 
-- 🔭 I’m currently working on [python-tebexclient](https://github.com/spoopytim/python-tebexclient)
+- 🔭 I’m currently working on [HorizonCore](https://github.com/HorizonApp-Development/HorizonCore-Issue-Tracker)
 
-- 🌱 I’m currently learning **Node.JS, Electron.JS, Laravel, .NET and Docker**
+- 🌱 I’m currently learning **Node.JS, Electron.JS and .NET 6**
 
-- 👨‍💻 All of my projects are available at [my site](https://spoopydev.ml)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://spoopydev.com)
 
-- 💬 Ask me about **Python and Bash**
+- 💬 Ask me about **Python, Node.JS and Networking**
 
-- 📫 Contact me about business using **spoopytimbusiness@gmail.com**
+- 📫 Contact me for business inquiries on **spoopytimbusiness@gmail.com** or for management issues contact **admin@horizonapp.net**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoopytim&hide_border=true&currStreakLabel=FF79C6&background=DDDDDD00&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=FF79C6&sideLabels=FF79C6&dates=6272A4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoopytim&hide_border=true&currStreakLabel=fff&background=313842&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=50FA7B&sideLabels=fff&dates=6272A4)](https://git.io/streak-stats)
 
 ### Contact me!
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=7289DA&color=313842" />](https://spoopydev.ml/discord) 
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=7289DA&color=313842" />](https://spoopydev.com/discord) 
 
 ### Languages & Tools
 
@@ -46,11 +46,11 @@ Hi 👋, I'm SpoopyTim
 ### Statistics
 
 <a href="#">
-  <img align="left" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
+  <img align="center" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact&langs_count=10" />
 </a>
 <a href="#">
   <img align="center" alt="top-langs" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
 </a>
 <a href="#">
-  <img align="center" alt="all-stats" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b" />
+  <img align="left" alt="all-stats" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b" />
 </a>
