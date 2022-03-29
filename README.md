@@ -7,7 +7,7 @@ Hi 👋, I'm SpoopyTim
 
 - 🔭 I’m currently working on [HorizonCore](https://github.com/HorizonApp-Development/HorizonCore-Issue-Tracker)
 
-- 🌱 I’m currently learning **Node.JS, Electron.JS and .NET 6**
+- 🌱 I’m currently learning **Node.JS, .NET 6 and Rust**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://spoopydev.com)
 
