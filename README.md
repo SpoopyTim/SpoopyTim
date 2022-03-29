@@ -45,6 +45,12 @@ Hi 👋, I'm SpoopyTim
  
 ### Statistics
 
-![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=fff&border_color=000)
-
-![spoopytim](https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=45,DDDDDD00,DDDDDD00&text_color=fff&title_color=fff&border_color=000&icon_color=fff)
+<a href="#">
+  <img align="left" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
+</a>
+<a href="#">
+  <img align="center" alt="top-langs" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api/top-langs?username=spoopytim&hide_border=true&show_icons=true&locale=en&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b&layout=compact" />
+</a>
+<a href="#">
+  <img align="center" alt="all-stats" src="https://github-readme-stats-ec95gdbim-spoopytim.vercel.app/api?username=spoopytim&hide_border=true&show_icons=true&locale=en&count_private=true&bg_color=313842&text_color=fff&title_color=fff&border_color=000&icon_color=50fa7b" />
+</a>
