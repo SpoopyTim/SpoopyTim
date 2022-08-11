@@ -5,21 +5,21 @@ Hi 👋, I'm SpoopyTim
 
 <img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=nord&no-frame=true" />
 
-- 🔭 I’m currently working on [HorizonCore](https://github.com/HorizonApp-Development/HorizonCore-Issue-Tracker)
+- :rocket: I’m currently working on [NeonBot](https://neonbot.me)
 
-- 🌱 I’m currently learning **Node.JS, .NET 6 and Rust**
+- :books: I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://spoopydev.com)
+- :computer: All of my projects are available on my [Portfolio](https://spoopydev.com)
 
-- 💬 Ask me about **Python, Node.JS and Networking**
+- :speech_balloon: Ask me about **Python, Node.JS and Server Management**
 
-- 📫 Contact me for business inquiries on **spoopytimbusiness@gmail.com** or for management issues contact **admin@horizonapp.net**
+- :envelope: Contact me for business inquiries on **spoopytimbusiness@gmail.com** or for management issues contact **admin@horizonapp.net**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoopytim&hide_border=true&currStreakLabel=fff&background=313842&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=50FA7B&sideLabels=fff&dates=6272A4)](https://git.io/streak-stats)
 
 ### Contact me!
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=7289DA&color=313842" />](https://spoopydev.com/discord) 
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=SpoopyTim%237319&logoColor=7289DA&color=313842" />](https://spoopydev.com/discord)
 
 ### Languages & Tools
 
