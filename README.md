@@ -5,7 +5,7 @@ Hi 👋, I'm SpoopyTim
 
 <img src="https://github-profile-trophy.vercel.app/?username=spoopytim&theme=nord&no-frame=true" />
 
-- :rocket: I’m currently working on [NeonBot](https://neonbot.me)
+- :rocket: I’m currently working on [**NeonBot**](https://neonbot.me/) with [**@n-xsi**](https://github.com/n-xsi), [**@wik3d**](https://github.com/wik3d) and [**@Zyprus**](https://github.com/Zyprus)
 
 - :books: I’m currently learning **Rust**
 
