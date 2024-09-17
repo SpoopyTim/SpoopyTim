@@ -19,7 +19,7 @@ Hi 👋, I'm SpoopyTim
 
 ### Contact me!
 
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=SpoopyTim%237319&logoColor=7289DA&color=313842" />](https://spoopydev.com/discord)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&label=spoopytim&logoColor=7289DA&color=313842" />](https://spoopydev.com/discord)
 
 ### Languages & Tools
 
