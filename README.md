@@ -15,6 +15,8 @@ Hi 👋, I'm SpoopyTim
 
 - :envelope: Contact me for business inquiries on **spoopytimbusiness@gmail.com** or for management issues contact **admin@horizonapp.net**
 
+- :boom: Check out my personal [Gitlab](https://git.horizonapp.net/spoopytim) instance. Theres probably more over there than on here :)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoopytim&hide_border=true&currStreakLabel=fff&background=313842&border=000000&stroke=DDDDDD1A&ring=6272A4&fire=8BE9FD&currStreakNum=50FA7B&sideNums=50FA7B&sideLabels=fff&dates=6272A4)](https://git.io/streak-stats)
 
 ### Contact me!
